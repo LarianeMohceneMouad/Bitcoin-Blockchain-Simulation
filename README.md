@@ -24,6 +24,6 @@ run command ``pip install -r requirements.txt``
 ## Testing
 run ``test.bat`` to try out a bitcoin blockchain system with 2 agents, (you can launch as many agents as you want by running ``boot.py`` and then run ``agent.py`` on different terminals)
 
-![User Interace]([http://url/to/img.png](https://github.com/LarianeMohceneMouad/Bitcoin-Blockchain-Simulation/blob/main/screenshot.png))
+![User Interace](screenshot.png))
 
 > Note: To be updated
