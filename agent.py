@@ -6,9 +6,9 @@ import time
 from tkinter import *
 from cffi.backend_ctypes import xrange, long
 
-from block182 import *
-from transaction_v2 import *
-from wallet_v2 import Wallet
+from block import *
+from transaction import *
+from wallet import Wallet
 
 '''
 Added : Peer to peer
