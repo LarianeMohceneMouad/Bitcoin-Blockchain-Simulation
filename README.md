@@ -20,7 +20,10 @@ run command ``pip install -r requirements.txt``
 - Timestamps
 - Signatures
 
-> Note: To be updated
 
 ## Testing
-run ``test.bat`` to try out a bitcoin blockchain system with 3 agents, (you can launch as many agents as you want by running ``boot.py`` and then run ``agent.py`` on different terminals)
+run ``test.bat`` to try out a bitcoin blockchain system with 2 agents, (you can launch as many agents as you want by running ``boot.py`` and then run ``agent.py`` on different terminals)
+
+
+
+> Note: To be updated
