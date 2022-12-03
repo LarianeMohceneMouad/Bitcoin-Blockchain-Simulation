@@ -9,7 +9,7 @@ run command ``pip install -r requirements.txt``
 > Using low level sockets programming to ensure network agents p2p connections by manipulating their sockets 
 ### 2. agent (miner) : 
 > Create and send Transaction, Block...
-### 3. block & transaction é wallet
+### 3. block & transaction & wallet
 > Complex data types 
 
 ## Implemented functions:
@@ -21,3 +21,6 @@ run command ``pip install -r requirements.txt``
 - Signatures
 
 > Note: To be updated
+
+## Testing
+run ``test.bat`` to try out a bitcoin blockchain system with 2 agents, (you can launch as many agents as you want by running ``boot.py`` and then run ``agent.py`` on different terminals
